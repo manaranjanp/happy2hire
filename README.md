@@ -1,2 +1,2 @@
-# happy2hire.github.io
+# happy2hire
 Job Hiring Website
